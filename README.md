@@ -3,7 +3,7 @@ A collection of re-usable React components. For information and details please c
 # Button component
 Button is one of the most widely used item in any website/application. The main parts of this components inluce the visual represantion of the button
 but also the link it points to. To use, simply import the component
-
+![Button component](https://user-images.githubusercontent.com/56344856/125463023-50d73e3f-e753-4779-b176-de6918678c80.png)
 
 # Banner component
 Here is a UI reusable dumb component of a full page banner. This component takes in multiple images as sources and applies them as background with a dark
