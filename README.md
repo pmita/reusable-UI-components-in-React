@@ -4,8 +4,8 @@ A collection of re-usable React components. For information and details please c
 Button is one of the most widely used item in any website/application. The main parts of this components inluce the visual represantion of the button
 but also the link it points to. To use, simply import the component
 
-```
-  import Button from './components/Button';
+
+  #`import Button from './components/Button';`
   
   //The button takes the following props: buttonText, buttonLink, mainColor, secColor, and outline. All of the props are self-explanatory except the
   //last one. Outline basically defines the order of the main/sec colors. A true/false value simply reverses the color pallete.
@@ -17,6 +17,6 @@ but also the link it points to. To use, simply import the component
     secColor = 'define the secondary color of your button',
     outline = {false}
   />
-```
+
 
 
